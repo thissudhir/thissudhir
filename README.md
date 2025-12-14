@@ -7,7 +7,7 @@
 
 ## About Me
 
-**Full Stack Developer** specializing in scalable web applications and cloud architecture. I build high-performance systems that serve real users and solve meaningful problems.
+**Full Stack Mobile App Developer** specializing in scalable mobile applications and cloud architecture. I build high-performance systems that serve real users and solve meaningful problems.
 
 - 🔭 Software Developer at **Cladbe** - Real estate platform serving 100K+ users
 - 📦 Open Source Maintainer - **[gitcleancommit](https://www.npmjs.com/package/gitcleancommit)** NPM package
