@@ -1,4 +1,4 @@
-# Hi, I'm Abhishek Yadav 👋
+# Hi, I'm Abhishek 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thissudhir)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://thissudhirportfolio.vercel.app/)
@@ -9,10 +9,10 @@
 
 **Full Stack Mobile App Developer** specializing in scalable mobile applications and cloud architecture. I build high-performance systems that serve real users and solve meaningful problems.
 
-- 🔭 Software Developer at **Cladbe** - Real estate platform serving 100K+ users
-- 📦 Open Source Maintainer - **[gitcleancommit](https://www.npmjs.com/package/gitcleancommit)** NPM package
-- 🎯 **99.6% TCS NQT Programming Score** - Top 1% nationwide
-- ⚡ Track record of **60% performance improvements** and **40% user engagement** boosts
+- Software Developer at **Cladbe** - Real estate platform serving 100K+ users
+- Open Source Maintainer - **[gitcleancommit](https://www.npmjs.com/package/gitcleancommit)** NPM package
+- **99.6% TCS NQT Programming Score** - Top 1% nationwide
+- Track record of **60% performance improvements** and **40% user engagement** boosts
 
 ## Tech Stack
 
