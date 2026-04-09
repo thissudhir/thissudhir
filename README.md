@@ -68,6 +68,6 @@ I'm always interested in discussing new opportunities, collaborating on projects
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thissudhir&color=brightgreen&style=flat-square)
 
-**"Building software that matters, one commit at a time"** ⚡
+**"Building software that matters, one commit at a time"**
 
 </div>
