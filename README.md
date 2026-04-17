@@ -10,7 +10,7 @@
 **Full Stack Mobile App Developer** specializing in scalable mobile applications and cloud architecture. I build high-performance systems that serve real users and solve meaningful problems.
 
 - Software Developer at **Cladbe** - Real estate platform serving 100K+ users
-- Open Source Maintainer - **[gitcleancommit](https://www.npmjs.com/package/gitcleancommit)** NPM package
+- Open Source Maintainer - **[gitcleancommit] commit using ai (https://www.npmjs.com/package/gitcleancommit)** NPM package
 - **99.6% TCS NQT Programming Score** - Top 1% nationwide
 - Track record of **60% performance improvements** and **40% user engagement** boosts
 
